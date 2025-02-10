@@ -26,7 +26,7 @@ class buildButton extends StatelessWidget {
             ),
             child: Text(
               text,
-              style: TextStyle(fontSize: 24, color: Colors.white),
+              style: TextStyle(fontSize: 25, color: Colors.white),
             )),
 
       ),
